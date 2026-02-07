@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Someday (Official Music Video)",
+  "base_artist": "OneRepublic",
+  "createdAt": "2026-02-07T07:41:08.003027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Someday",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/01_Someday_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Someday",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_Someday_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Someday Soon",
+      "artist": "Suzy Bogguss",
+      "has_synced": false,
+      "path": "select/03_Someday_Soon_Suzy_Bogguss.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Us Someday",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/04_Us_Someday_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Someday",
+      "artist": "Martin Solveig",
+      "has_synced": false,
+      "path": "select/05_Someday_Martin_Solveig.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someday",
+      "artist": "Matt and Kim",
+      "has_synced": true,
+      "path": "select/06_Someday_Matt_and_Kim.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Someday",
+      "artist": "Matt & Kim",
+      "has_synced": true,
+      "path": "select/07_Someday_Matt_&_Kim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Size Matters (Someday) (Album Version)",
+      "artist": "Joe Nichols",
+      "has_synced": true,
+      "path": "select/08_Size_Matters_(Someday)_(Album_Version)_Joe_Nichols.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Someday When I Stop Loving You",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/09_Someday_When_I_Stop_Loving_You_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Know It's Gonna Happen Someday",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_I_Know_It's_Gonna_Happen_Someday_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Know It's Coming Someday",
+      "artist": "Longwave",
+      "has_synced": false,
+      "path": "select/11_I_Know_It's_Coming_Someday_Longwave.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Know It's Gonna Happen Someday",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/12_I_Know_It's_Gonna_Happen_Someday_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Someday - Point G Mix",
+      "artist": "Martin Solveig",
+      "has_synced": false,
+      "path": "select/13_Someday_-_Point_G_Mix_Martin_Solveig.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Someday - MTV Unplugged",
+      "artist": "Mariah Carey",
+      "has_synced": false,
+      "path": "select/14_Someday_-_MTV_Unplugged_Mariah_Carey.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Someday (Spen & Karzima Instrumental)",
+      "artist": "Martin Solveig",
+      "has_synced": false,
+      "path": "select/15_Someday_(Spen_&_Karzima_Instrumental)_Martin_Solveig.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Someday",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/pl_01_Someday_OneRepublic.txt"
+    }
+  ]
+}
