@@ -1,0 +1,96 @@
+# OneRepublic – Someday (Official Music Video)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Somedays I'm treading the water
+and feel like it's getting deep
+Some nights I drown in the wade
+of the things
+that I think I need
+Sometimes I feel incomplete,
+yeah
+But you always say to me,
+say to me
+Oh, you say someday
+when we're older
+We'll be shinin' like we're gold
+yeah
+Won't we?
+Won't we?
+Won't we?
+Won't we?
+Yeah, someday when we're older
+I'll be yours,
+and you'll be mine
+Be happy
+happy
+Happy
+Oh, you say someday
+when we're older
+We won't worry 'bout
+the things that
+We don't need
+we don't need
+We don't need
+Yeah, one day down the line
+Before we both run out of time
+You're gonna see
+That someday we'll be
+all that we need
+Someday we'll be all
+that we need
+I've been the best,
+been the worst
+Been a ghost in a crowded room
+oh, yeah-yeah-yeah-yeah
+I took a chance, took a turn,
+took a dive
+And it led to you
+oh, yeah-yeah-yeah-yeah
+So many times that
+I wish we could be anywhere
+but here
+So many times that
+I wish I could see what
+you see so clear, so clear
+Oh, you say someday
+when we're older
+We'll be shinin' like
+we're gold, yeah
+Won't we?
+Won't we?
+Won't we?
+Won't we?
+Yeah, someday when we're older
+I'll be yours,
+and you'll be mine
+Be happy
+happy
+Happy
+Oh, you say someday
+when we're older
+We won't worry 'bout
+the things that
+We don't need
+we don't need
+We don't need
+Yeah, one day down the line
+Before we both run out of time
+You're gonna see
+That someday we'll be
+all that we need
+Someday we'll be
+all that we need
+Oh, you say someday
+when we're older
+We'll be shinin'
+like we're gold, yeah
+Won't we?
+Won't we?
+Mmh, someday down the line
+Before we both run out of time
+You're gonna see
+That someday we'll be
+all that we need
+```
